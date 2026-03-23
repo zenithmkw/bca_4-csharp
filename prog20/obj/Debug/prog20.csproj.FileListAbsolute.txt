@@ -1,0 +1,8 @@
+D:\7155\unit4_sol\consstructor\bin\Debug\consstructor.exe.config
+D:\7155\unit4_sol\consstructor\bin\Debug\consstructor.exe
+D:\7155\unit4_sol\consstructor\bin\Debug\consstructor.pdb
+D:\7155\unit4_sol\consstructor\obj\Debug\prog20.csproj.AssemblyReference.cache
+D:\7155\unit4_sol\consstructor\obj\Debug\consstructor.exe.config
+D:\7155\unit4_sol\consstructor\obj\Debug\prog20.csproj.CoreCompileInputs.cache
+D:\7155\unit4_sol\consstructor\obj\Debug\consstructor.exe
+D:\7155\unit4_sol\consstructor\obj\Debug\consstructor.pdb
