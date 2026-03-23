@@ -1,0 +1,7 @@
+D:\7155\unit4_sol\employee\bin\Debug\employee.exe.config
+D:\7155\unit4_sol\employee\bin\Debug\employee.exe
+D:\7155\unit4_sol\employee\bin\Debug\employee.pdb
+D:\7155\unit4_sol\employee\obj\Debug\employee.csproj.AssemblyReference.cache
+D:\7155\unit4_sol\employee\obj\Debug\employee.csproj.CoreCompileInputs.cache
+D:\7155\unit4_sol\employee\obj\Debug\employee.exe
+D:\7155\unit4_sol\employee\obj\Debug\employee.pdb

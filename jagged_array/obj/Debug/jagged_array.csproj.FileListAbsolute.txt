@@ -1,0 +1,8 @@
+D:\7155\unit4_sol\jagged_array\bin\Debug\jagged_array.exe.config
+D:\7155\unit4_sol\jagged_array\bin\Debug\jagged_array.exe
+D:\7155\unit4_sol\jagged_array\bin\Debug\jagged_array.pdb
+D:\7155\unit4_sol\jagged_array\obj\Debug\jagged_array.csproj.AssemblyReference.cache
+D:\7155\unit4_sol\jagged_array\obj\Debug\jagged_array.csproj.CoreCompileInputs.cache
+D:\7155\unit4_sol\jagged_array\obj\Debug\jagged_array.exe
+D:\7155\unit4_sol\jagged_array\obj\Debug\jagged_array.pdb
+D:\7155\unit4_sol\jagged_array\obj\Debug\jagged_array.exe.config
