@@ -1,0 +1,8 @@
+D:\7155\unit4_sol\prog21\bin\Debug\prog21.exe.config
+D:\7155\unit4_sol\prog21\bin\Debug\prog21.exe
+D:\7155\unit4_sol\prog21\bin\Debug\prog21.pdb
+D:\7155\unit4_sol\prog21\obj\Debug\prog21.csproj.AssemblyReference.cache
+D:\7155\unit4_sol\prog21\obj\Debug\prog21.csproj.CoreCompileInputs.cache
+D:\7155\unit4_sol\prog21\obj\Debug\prog21.exe
+D:\7155\unit4_sol\prog21\obj\Debug\prog21.pdb
+D:\7155\unit4_sol\prog21\obj\Debug\prog21.exe.config
